@@ -9,10 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Edouard AUSSANT
-Elève ingénieur.
-
-
-Disponible 200 mois à partir de 2028
+Elève en cycle pré-ingénieur
 
 [Edouard.AUSSSANT[at]etu.unilasalle.com](mailto:Prenom.Nom@xxx.com)
 
