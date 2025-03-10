@@ -8,15 +8,15 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Edouard AUSSANT
+Elève ingénieur.
 
 
-Disponible XX mois à partir de Date
+Disponible 200 mois à partir de 2028
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Edouard.AUSSSANT[at]etu.unilasalle.com](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/Edouard.AUSSANT)
 
-Permis B, voiture
+Permis B
 
