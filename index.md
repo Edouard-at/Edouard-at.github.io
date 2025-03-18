@@ -13,7 +13,7 @@ Elève en cycle pré-ingénieur
 
 [Edouard.AUSSSANT[at]etu.unilasalle.com](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Edouard.AUSSANT)
+[LinkedIn](https://www.linkedin.com/in/edouard-aussant-2a7b48309/)
 
 Permis B
 
